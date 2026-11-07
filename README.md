@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
-sh                       1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Text                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Other                    2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+sh                       1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+TypeScript               1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Text                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
-Codex Vscode             3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Claude Code              2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Zsh                      1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Claude Code              2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
+Codex Vscode             2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Zsh                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 
 🐱‍💻 Projects: 
-amplehelp                5 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.38 % 
-observe                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Purple Mode 55           1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Old Sky 3                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-croeser                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+observe                  1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+amplehelp                1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Odd Night 57             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+croeser                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Terminal                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 💻 Operating System: 
-Mac                      11 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
