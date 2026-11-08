@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-sh                       1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-TypeScript               1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Text                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Other                    2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+sh                       1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Text                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-Codex Vscode             2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Zsh                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Claude Code              2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+Codex Vscode             1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Zsh                      1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+VS Code                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 
 🐱‍💻 Projects: 
-observe                  1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-amplehelp                1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Odd Night 57             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-croeser                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Terminal                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+observe                  1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Odd Night 57             59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Terminal                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+croeser                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+VelocityMail             36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 💻 Operating System: 
-Mac                      7 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
