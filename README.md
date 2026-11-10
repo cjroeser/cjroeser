@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   39.83 % 
-sh                       38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Text                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-CSV                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Other                    1 hr 30 mins        █████████████░░░░░░░░░░░░   51.72 % 
+sh                       38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 46 mins       ██████████████████░░░░░░░   73.59 % 
-Zsh                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Codex Vscode             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Claude Code              1 hr 46 mins        ███████████████░░░░░░░░░░   61.27 % 
+Zsh                      38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Codex Vscode             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🐱‍💻 Projects: 
-Odd Night 57             59 mins             ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-croeser                  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Terminal                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Purple Mode 55           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Solitary Dawn 45         29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Odd Night 57             58 mins             ████████░░░░░░░░░░░░░░░░░   33.32 % 
+Terminal                 38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Solitary Dawn 45         29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+VelocityMail             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Wispy Theory 26          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 💻 Operating System: 
-Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
