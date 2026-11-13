@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 48 mins        ███████████░░░░░░░░░░░░░░   42.05 % 
-sh                       40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    2 hrs               ██████████░░░░░░░░░░░░░░░   41.69 % 
+sh                       41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+YAML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🔥 Editors: 
-Claude Code              1 hr 56 mins        ███████████░░░░░░░░░░░░░░   45.24 % 
-Codex Vscode             57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-VS Code                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Zsh                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Claude Code              2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.53 % 
+VS Code                  1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Codex Vscode             57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Zsh                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 
 🐱‍💻 Projects: 
-Odd Night 57             58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Solitary Dawn 45         41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-RackManage-Cloudflare    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Terminal                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Wispy Theory 26          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Odd Night 57             58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Solitary Dawn 45         41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Terminal                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+RackManage-Cloudflare    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Wispy Theory 26          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 
 💻 Operating System: 
-Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
