@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.20 % 
-sh                       2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TypeScript               10 hrs 7 mins       █████████████░░░░░░░░░░░░   50.08 % 
+sh                       4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+JavaScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Vue                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.74 % 
-VS Code                  3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.63 % 
-Zsh                      3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-Claude Code              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+VS Code                  7 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
+Codex Vscode             6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Zsh                      5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Claude Code              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🐱‍💻 Projects: 
-observe                  4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.16 % 
-webhooks                 4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-Raspy Pasta 52           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-RackManage-Cloudflare    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Wispy Theory 26          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+webhooks                 7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
+observe                  6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+amplehelp                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+RackManage-Firebase      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+RackManage               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 💻 Operating System: 
-Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
