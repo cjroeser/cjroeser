@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-sh                       3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Vue                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+TypeScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Vue                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+sh                       2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+JSON                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.78 % 
-Codex Vscode             6 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
-Zsh                      3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Claude Code              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+VS Code                  6 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.27 % 
+Codex Vscode             4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Zsh                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Claude Code              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🐱‍💻 Projects: 
-RackManage               4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-webhooks                 3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-RackManage-Firebase      2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-VelocityMail             1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Old Sky 3                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+RackManage               3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+VelocityMail             1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+RackManage-Firebase      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Old Sky 3                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Keycloak                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
 💻 Operating System: 
-Mac                      19 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
